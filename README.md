@@ -49,6 +49,13 @@ GitHub (for version control and submission)
     Peak vs Off-peak periods
   Encoded categorical variables where necessary.
  Saved the enhanced dataset for Power BI.
+ ---
+ ##
+<img width="222" height="223" alt="2" src="https://github.com/user-attachments/assets/6a1a4ff9-d8f4-447d-bea8-6808287ea1e1" />
+---
+<img width="222" height="223" alt="2" src="https://github.com/user-attachments/assets/b1b1426a-bff0-4e83-a05e-6d90d2fdecc4" />
+---
+<img width="145" height="98" alt="3" src="https://github.com/user-attachments/assets/c0d569f1-b95e-49b5-b71e-02c2d67a629f" />
 
 ---
 
@@ -61,5 +68,8 @@ GitHub (for version control and submission)
    Time-based trends (hourly, daily, monthly)
   Identified peak ride periods
    Geographic fare patterns (if location data available)
+   
+   ## all the dashboard is here 
 
+<img width="508" height="292" alt="newdsash" src="https://github.com/user-attachments/assets/e8ec83d7-4f39-47cc-86bf-6787d4014f9b" />
 
